@@ -20,9 +20,10 @@ const About:React.FC = () => {
                 <li>Github</li>
                 <li>Github Actions</li>
                 <li>Netlify Hosting</li>
+                <li>Icons using Adobe Illustrator</li>
             </ul>
             <p>Now <span>Installable</span> and You will recieve <span>daily Push Notifications</span></p>
-            <small><strong>Note:</strong> Push Notifications are recieved if the app is Installed and InActive(Closed) at the time of Notification</small>
+            <small><strong>Note:</strong> Push Notifications are recieved if you will be having a stable internet connection, the app should be Installed and your notifications for the app and Google should be allowed, then in InActive(Closed) state you will recieve the notification according to scheduled time</small>
         </div>
     )
 }
